@@ -1,6 +1,6 @@
-INPUT num
-IF num % 2 = 0 THEN
-  DISPLAY "even number."
-ELSE
-  DISPLAY "odd number."
+1. INPUT num
+2. IF num % 2 = 0 THEN
+3.  DISPLAY "even number."
+4. ELSE
+5.  DISPLAY "odd number."
   
